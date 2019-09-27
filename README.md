@@ -1,2 +1,3 @@
  - 股票量化一些策略基于quantaxis的实现
  - 基于quantaxis 1.2.1
+ - 文章发布到csdn了：https://blog.csdn.net/weixin_39220714/article/category/9283132
